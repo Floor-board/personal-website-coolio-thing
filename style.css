@@ -1,0 +1,30 @@
+.dotted_boarder {
+    border-left-style: 2px dotted black;
+    padding: 1px;
+}
+
+#green_text {
+    color: rgb(0, 204, 102);
+}
+
+.centerd_para {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+	border-style:dotted;
+	border-left-style:solid;
+	border-right-style:solid;
+}
+.bike_image {
+    border: 2px solid black; 
+    display: block; 
+    margin: 0 auto; 
+}
+
+body {
+	background-image: url("mountain_background.jpg"); /* source for image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fmountain-background&psig=AOvVaw3aYA4tBTX20Zj8wsJqtuxu&ust=1724447074557000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCOiwrozAiYgDFQAAAAAdAAAAABAE */
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
