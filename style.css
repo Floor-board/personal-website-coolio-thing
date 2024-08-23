@@ -29,7 +29,7 @@ body {
 	background-size: cover; 
 }
 
-# nice-para-borders {
+.nice-para-borders {
 	border: 2px solid black;
 	text-position:center;
 }
