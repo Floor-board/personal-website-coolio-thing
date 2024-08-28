@@ -37,3 +37,9 @@ body {
 .p1 {
   font-family: "Monospace", Lucida Console;
 }
+
+ul {
+	display: block;
+	margin: 0 auto;
+	<-- width: ; -->
+}
